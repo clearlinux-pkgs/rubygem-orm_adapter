@@ -4,7 +4,7 @@
 #
 Name     : rubygem-orm_adapter
 Version  : 0.5.0
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/orm_adapter-0.5.0.gem
 Source0  : https://rubygems.org/downloads/orm_adapter-0.5.0.gem
 Summary  : No detailed summary available
